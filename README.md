@@ -24,6 +24,7 @@ Dataset used: **GapminderHealth**
 - **Details:** Average Life Expectancy per continent, filtered to the most recent year.  
 - **Features:** Sorted by Life Expectancy (ascending/descending).  
 - **Deliverable:** Worksheet named *"Life Expectancy by Continent"*.
+<img width="498" height="181" alt="image" src="https://github.com/user-attachments/assets/e58de3a0-2fed-4996-8591-9eeee55deaad" />
 
 ---
 
@@ -32,6 +33,7 @@ Dataset used: **GapminderHealth**
 - **Details:** Trend of Life Expectancy over time.  
 - **Features:** Filtered to top 5 countries with highest average Life Expectancy.  
 - **Deliverable:** Worksheet named *"Life Expectancy Trend"*.
+<img width="806" height="326" alt="image" src="https://github.com/user-attachments/assets/fd5f2495-ca86-46fa-adf1-afb5cfb89444" />
 
 ---
 
@@ -43,6 +45,8 @@ Dataset used: **GapminderHealth**
   - Filtered to most recent year.  
   - Population shown as percentage of total.  
 - **Deliverable:** Worksheet named *"Population by Gender"*.
+- <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/fc30cff0-e615-40d8-8861-4d8b28863942" />
+
 
 ---
 
@@ -55,12 +59,15 @@ Dataset used: **GapminderHealth**
   - Continent on Color (differentiation).  
   - Continent filter available.  
 - **Deliverable:** Worksheet named *"Life Expectancy vs BMI"*.
+- <img width="815" height="213" alt="image" src="https://github.com/user-attachments/assets/ab6a3e4e-3322-4ad7-8cea-46baebc97eac" />
+
 
 ---
 
-### 5. Viz of Your Choice
-- **Chart Type:** Custom visualization using other fields.  
-- **Deliverable:** Worksheet named *"Custom Viz"*.
+### 5. Global Health Map
+- **Chart Type:** Geographic Map 
+- **Details:** Average life expectancy by each Country
+<img width="493" height="161" alt="image" src="https://github.com/user-attachments/assets/7e2466ee-ad8e-4d13-b5fc-fd6df8cb1407" />
 
 ---
 
@@ -71,6 +78,9 @@ Dataset used: **GapminderHealth**
 - Published to Tableau Public.
 
 **Deliverable:** Dashboard named *"Global Health Dashboard"*  
+preview
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/eda75e98-c23f-4be3-a065-ea1751683166" />
+
 🔗 [View on Tableau Public](https://public.tableau.com/app/profile/jayason.thavathevathasan/viz/Assingmentwork2_17604413120110/GlobalHealthDashboard)
 
 ---
